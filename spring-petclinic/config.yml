@@ -28,6 +28,6 @@ spec:
     spec:
       containers:
       - name: spring-petclinic
-        image: docker.io/ccollicutttanzu/spring-petclinic
+        image: harbor.dev.pkhamdee.com/demo/petclinic
 
   
